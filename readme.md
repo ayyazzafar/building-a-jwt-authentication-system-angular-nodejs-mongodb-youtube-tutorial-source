@@ -1,6 +1,6 @@
 # Building a JWT Authentication System (Angular + Node.js + MongoDB)
 
-This repository contains the complete source code for the YouTube tutorial “[Build JWT Authentication with Angular & Node.js](https://youtu.be/wyvnIb-oiAo)”. The project demonstrates how to build a secure login and signup system using Angular for the frontend and Node.js (Express) for the backend, all secured with JWT-based authentication.
+This repository contains the complete source code for the YouTube tutorial “[Building a JWT Authentication System (Angular + Node.js + MongoDB)](https://youtu.be/wyvnIb-oiAo)”. The project demonstrates how to build a secure login and signup system using Angular for the frontend and Node.js (Express) for the backend, all secured with JWT-based authentication.
 
 ## Overview
 
@@ -69,7 +69,7 @@ The project is divided into two main parts:
 
 ## Video Tutorial
 
-Watch the full tutorial on YouTube: [Build JWT Authentication with Angular & Node.js](https://youtu.be/wyvnIb-oiAo)
+Watch the full tutorial on YouTube: [Building a JWT Authentication System (Angular + Node.js + MongoDB)](https://youtu.be/wyvnIb-oiAo)
 
 ## License
 
